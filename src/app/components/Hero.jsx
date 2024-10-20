@@ -45,7 +45,7 @@ const Hero = () => {
 
       {/* Hero Section */}
       <div className="text-center mb-8">
-        <h1 className="text-2xl lg:text-5xl font-bold mb-1 text-white">Hello I'm</h1>
+        <h1 className="text-2xl lg:text-5xl font-bold mb-1 text-white">Hello I&aps;m</h1>
         <h2 className="text-4xl font-bold text-green-500">Ali Raza</h2>
       </div>
 
@@ -97,11 +97,11 @@ const Hero = () => {
 
           {/* About and Freelance Information */}
           <div className="text-center text-md space-y-4">
-            <p>I'm a full-stack web application developer from Skardu, Pakistan.</p>
+            <p>I&aps;m a full-stack web application developer from Skardu, Pakistan.</p>
             <h1 className="font-extrabold text-2xl">Available for Freelance Projects.</h1>
             <p>
-              Explore new horizons with me! I'm excited to embrace full-stack opportunities (remote or onsite) that spotlight my
-              frontend development expertise. If my skills resonate with you and you have a project that needs coding magic, let's
+              Explore new horizons with me! I&aps;m excited to embrace full-stack opportunities (remote or onsite) that spotlight my
+              frontend development expertise. If my skills resonate with you and you have a project that needs coding magic, let&aps;s
               connect and bring it to life!
             </p>
             <br />
