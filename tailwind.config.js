@@ -8,6 +8,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        mubashir: '#08979e', // Custom color for the gradient
+        secondary: '#0ab6bf',
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
