@@ -46,19 +46,19 @@ const Hero = () => {
       {/* Hero Section */}
       <div className="text-center mb-8">
         <h1 className="text-2xl lg:text-5xl font-bold mb-1 text-white">Hello I&apos;m</h1>
-        <h2 className="text-4xl font-bold text-green-500">Ali Raza</h2>
+        <h2 className="text-4xl font-bold text-green-500">Mubashir</h2>
       </div>
 
       {/* Profile and Info Section */}
       <div className="flex flex-col md:flex-row items-center">
         <div className="w-full md:w-1/3 p-4">
           <Image
-            src="/ali.png" // Ensure this image is in the public/img folder
+            src="/my.jpg" // Ensure this image is in the public/img folder
             alt="profile"
             width={200}
             height={200}
             href='https://linkedin.com/in/mubashirali3/'
-            className="rounded-lg mx-auto shadow-lg m-2 hover:shadow-lg transition-transform transform hover:-translate-y-2 shadow-[#7d1bbf]"
+            className="rounded-lg mx-auto shadow-lg m-2 hover:shadow-lg transition-transform transform hover:-translate-y-2 shadow-[#dfd874]"
           />
         </div>
 
@@ -101,7 +101,7 @@ const Hero = () => {
             <h1 className="font-extrabold text-2xl">Available for Freelance Projects.</h1>
             <p>
               Explore new horizons with me! I&apos;m excited to embrace full-stack opportunities (remote or onsite) that spotlight my
-              frontend development expertise. If my skills resonate with you and you have a project that needs coding magic, let&aps;s
+              frontend development expertise. If my skills resonate with you and you have a project that needs coding magic, let&apos;s
               connect and bring it to life!
             </p>
             <br />

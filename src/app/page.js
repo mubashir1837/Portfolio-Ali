@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Spinner from './components/Spinner';
+import AboutMe from './components/AboutMe'
 
 function Page() {
   const [loading, setLoading] = useState(false);
@@ -12,7 +13,7 @@ function Page() {
   const fetchData = async () => {
     setLoading(true);
     // Simulate a data fetch with a timeout (replace with your actual fetch logic)
-    await new Promise((resolve) => setTimeout(resolve, 500));
+    await new Promise((resolve) => setTimeout(resolve, 2000));
     setLoading(false);
   };
 
@@ -34,7 +35,9 @@ function Page() {
         <Navbar />  
       
       {/* Hero section */}
-      <Hero />  
+      <Hero />
+      <AboutMe/>  
+      
       </main>
     </>
   );

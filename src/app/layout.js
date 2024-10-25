@@ -13,14 +13,14 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Ali Raza Portfolio",
-  description: "I'm Ali Raza Public Administration Student at Quaid-e-Azam University Islamabad",
+  title: "Mubashir Ali",
+  description: "I'm Mubashir Ali Bioinformatics Student at Quaid-e-Azam University Islamabad",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-        <link rel="icon" href="/img.jpg" type="image/png" class="rounded-full"/>
+        <link rel="icon" href="/my.jpg" type="image/png" />
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
