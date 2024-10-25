@@ -33,9 +33,9 @@ const AboutMe = () => {
                             <FaFile />
                             <span>Download CV</span>
                         </a>
-                        <a href="https://www.facebook.com/MubashirAliyaar3/" target="_blank" className="flex items-center space-x-2 text-white hover:text-blue-400">
+                        <a href="https://linkedin.com/in/mubashirali3/" target="_blank" className="flex items-center space-x-2 text-white hover:text-blue-400">
                             <FaLinkedin />
-                            <span>Follow on Facebook</span>
+                            <span>Follow on LinkedIn</span>
                         </a>
                         <a href="https://instagram.com/mubashir_aliyaar_37" target="_blank" className="flex items-center space-x-2 text-white hover:text-pink-400">
                             <FaInstagram />
@@ -47,7 +47,7 @@ const AboutMe = () => {
                         </a>
                         <a href="https://linkedin.com/in/mubashirali3/" target="_blank" className="flex items-center space-x-2 text-white hover:text-blue-700">
                             <FaLinkedin />
-                            <span>Follow on LinkedIn</span>
+                            <span>Follow on Facebook</span>
                         </a>
                     </div>
                 </div>

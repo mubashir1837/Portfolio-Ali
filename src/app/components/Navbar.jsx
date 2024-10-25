@@ -72,31 +72,31 @@ const Navbar = () => {
                   </a>
                   <a
                     href="#aboutme"
-                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-blue-950 hover:text-white"
+                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                   >
                     About
                   </a>
                   <a
                     href="#experience"
-                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-blue-950 hover:text-white"
+                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                   >
                     Experience
                   </a>
                   <a
                     href="#skills"
-                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-blue-950 hover:text-white"
+                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                   >
                     Skills
                   </a>
                   <a
                     href="#education"
-                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-blue-950 hover:text-white"
+                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                   >
                     Education
                   </a>
                   <a
                     href="#projects"
-                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-blue-950 hover:text-white"
+                    className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                   >
                     Projects
                   </a>
